@@ -16,7 +16,7 @@
 
 ## Quick stats 🚀
 
-<img src="https://github-readme-stats.vercel.app/api?username=thaifurforo&theme=dark&show_icons=true&bg_color=45,FD9A63,E44E8D,9F74E4,7490E4&title_color=fff&text_color=fff&border_color=fff&icon_color=fff" height=160em> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaifurforo&layout=compact&bg_color=45,FD9A63,E44E8D,9F74E4,7490E4&title_color=fff&text_color=fff&border_color=fff&icon_color=fff)](https://github.com/thaifurforo/github-readme-stats" height=160em>
+<img src="https://github-readme-stats.vercel.app/api?username=thaifurforo&theme=dark&show_icons=true&bg_color=45,FD9A63,E44E8D,9F74E4,7490E4&title_color=fff&text_color=fff&border_color=fff&icon_color=fff" height=160em> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaifurforo&layout=compact&bg_color=45,FD9A63,E44E8D,9F74E4,7490E4&title_color=fff&text_color=fff&border_color=fff&icon_color=fff" height=160em>
 
 
 ![Snake animation](https://github.com/thaifurforo/thaifurforo/blob/output/github-contribution-grid-snake.svg)
