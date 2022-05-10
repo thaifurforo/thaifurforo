@@ -18,5 +18,18 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=thaifurforo&theme=dark&show_icons=true&bg_color=45,FD9A63,E44E8D,9F74E4,7490E4&title_color=fff&text_color=fff&border_color=fff&icon_color=fff" height=160em> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaifurforo&layout=compact&bg_color=45,FD9A63,E44E8D,9F74E4,7490E4&title_color=fff&text_color=fff&border_color=fff&icon_color=fff" height=160em>
 
+## A brief history of me 📖
+
+Since I was a little child, I've always been curious about technology, disassembling toys and other objects to see how they work.
+My mother bought us our first computer when I was 4 years old. Since then, I was always the "IT guy" at my house and between my friends.
+I began to design my own birthday cards to gift my family using the computer in a very young age and, a few years later, I was already able to proficiently use Adobe Photoshop and some Adobe Illustrator as well.
+When I was around 11 years old, I discovered HTML and CSS. Personal blogs were trending, and soon I was selling layouts for my friends at school.
+
+I've also always loved math, especially statistics - which made me sympathize even to biology, while learning genetics at high school.
+At my Business Administration graduation, I've mentored students through subjects related do math and statistics, besides working at a research project to find out about the biggest problems faced by the local shopkeepers, and help them to solve it and develop their business. Later, I chose to do an MBA on Marketing and Business because of my passion for market researches and their use on business' decisions.
+
+I've been working as an Administrative Analyst since 2013, having the opportunity to work with data, which allowed me to develop a great analytical ability. Through the years, I evolved and informatized the data manipulation and analysis at this job, mostly using Excel automatations, to improve decision-making. 
+
+Since 2021, I've been studying some widely used tools in the data science environment, such as some Python libraries (Pandas, Numpy, Matplotlib etc.) and SQL, to improve my skills and dedicate my career to my data passion.
 
 ![Snake animation](https://github.com/thaifurforo/thaifurforo/blob/output/github-contribution-grid-snake.svg)
