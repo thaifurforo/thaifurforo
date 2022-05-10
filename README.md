@@ -28,7 +28,7 @@ When I was around 11 years old, I discovered HTML and CSS. Personal blogs were t
 I've also always loved math, especially statistics - which made me sympathize even to biology, while learning genetics at high school.
 At my Business Administration graduation, I've mentored students through subjects related do math and statistics, besides working at a research project to find out about the biggest problems faced by the local shopkeepers, and help them to solve it and develop their business. Later, I chose to do an MBA on Marketing and Business because of my passion for market researches and their use on business' decisions.
 
-I've been working as an Administrative Analyst since 2013, having the opportunity to work with data, which allowed me to develop a great analytical ability. Through the years, I evolved and informatized the data manipulation and analysis at this job, mostly using Excel automatations, to improve decision-making. 
+I've been working as an Administrative Analyst since 2013, having the opportunity to work with data, which allowed me to develop a great analytical ability. Through the years, I evolved and informatized the data manipulation and analysis at this job, mostly using Excel automation, to improve decision-making. 
 
 Since 2021, I've been studying some widely used tools in the data science environment, such as some Python libraries (Pandas, Numpy, Matplotlib etc.) and SQL, to improve my skills and dedicate my career to my data passion.
 
