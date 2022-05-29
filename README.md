@@ -32,6 +32,6 @@ At my Business Administration graduation, I've mentored students through subject
 
 I've been working as an Administrative Analyst since 2013, having the opportunity to work with data, which allowed me to develop a great analytical ability. Through the years, I evolved and informatized the data manipulation and analysis at this job, mostly using Excel automation, to improve decision-making. 
 
-Since 2021, I've been studying some widely used tools in the data science environment, such as some Python libraries (Pandas, Numpy, Matplotlib etc.) and SQL, to improve my skills and dedicate my career to my data passion.
+Since 2021, I've been studying Python (specially some widely used tools in the data science environment, such as the libraries Pandas, Numpy, Matplotlib) and SQL. I'm also currently taking a Python Bootcamp provided by <a href="https://www.stone.com.br/" target="_blank">Stone</a> and <a href="https://howedu.com.br/" target="_blank">How Bootcamps</a>, which is increasing my passion for the development area.
 
 ![Snake animation](https://github.com/thaifurforo/thaifurforo/blob/output/github-contribution-grid-snake.svg)
