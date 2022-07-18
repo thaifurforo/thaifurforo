@@ -6,7 +6,7 @@
 
 
 - 👋 My name is Thainara, but you can call me Thai 
-- 🌱 I’m currently learning Python for Data Science and Machine Learning
+- 🌱 I’m currently learning Python for Data Science and Back-End Development
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I learned to write mostly using a MS-DOS computer, when I was 4 years old
 - 🔭 Check out my portfolio: https://linktr.ee/thainarafurforo
