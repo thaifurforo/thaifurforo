@@ -47,6 +47,6 @@ Our project won <b>First Place</b> in the competition.
 
 Stone published [this video](https://www.youtube.com/watch?v=IZjXFqh0nqo), which contains more information about the Hackathon, and some of my opinions about their iniciative.
 
-In september 2022, I started working as a Back-End Developer at Stone's Credit team, having the chance to develop my skills in C# and .Net Core.
+In september 2022, I started working as a Back-End Developer at Stone's Credit team, having the chance to develop my skills in C# and .Net.
 
 ![Snake animation](https://github.com/thaifurforo/thaifurforo/blob/output/github-contribution-grid-snake.svg)
