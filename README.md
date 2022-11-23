@@ -11,7 +11,7 @@
 - ⚡ Pronouns: she/her/hers
 - 😄 Fun fact: I learned to write mostly using a MS-DOS computer, when I was 4 years old
 - 🔭 Check out my portfolio: https://linktr.ee/thainarafurforo
-- ❤️ I'm a volunteer at [Codaqui](https://www.codaqui.dev/), and we would love to have your support
+- ❤️ I'm a volunteer at the NPO [Codaqui](https://www.codaqui.dev/), and we would love to have your support
 
 
 ## Find me at 📬
