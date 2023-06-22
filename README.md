@@ -3,9 +3,6 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height=20px/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height=20px/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height=20px/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height=20px/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height=20px/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height=20px/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height=20px/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=20px/>
 
-
-
-
 - 👋 My name is Thainara, but you can call me Thai 
 - 🌱 I’m currently a back-end developer on the Credit team at Stone Co
 - ⚡ Pronouns: she/her/hers
@@ -25,6 +22,8 @@
 
 ## A brief history of me 📖
 
+<details>
+  <summary>Click to expand!</summary>
 Since I was a little child, I've always been curious about technology, disassembling toys and other objects to see how they work.
 My mother bought us our first computer when I was 4 years old. Since then, I was always the "IT guy" at my house and between my friends.
 I began to design my own birthday cards to gift my family using the computer in a very young age and, a few years later, I was already able to proficiently use Adobe Photoshop and some Adobe Illustrator as well.
@@ -48,5 +47,6 @@ Our project won <b>First Place</b> in the competition.
 Stone published [this video](https://www.youtube.com/watch?v=IZjXFqh0nqo), which contains more information about the Hackathon, and some of my opinions about their iniciative.
 
 In september 2022, I started working as a Back-End Developer at Stone's Credit team, having the chance to develop my skills in C# and .Net.
+</details>
 
 ![Snake animation](https://github.com/thaifurforo/thaifurforo/blob/output/github-contribution-grid-snake.svg)
