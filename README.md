@@ -18,7 +18,9 @@
 
 ## Quick stats 🚀
 
-<img src="https://github-readme-stats.vercel.app/api?username=thaifurforo&theme=dark&show_icons=true&bg_color=45,FD9A63,E44E8D,9F74E4,7490E4&title_color=fff&text_color=fff&border_color=fff&icon_color=fff" height=160em> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaifurforo&layout=compact&bg_color=45,FD9A63,E44E8D,9F74E4,7490E4&title_color=fff&text_color=fff&border_color=fff&icon_color=fff" height=160em>
+![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=thaifurforo&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=aura_dark&show_icons=true)
+
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=thaifurforo&theme=aura_dark)
 
 ## A brief history of me 📖
 
